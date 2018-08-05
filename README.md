@@ -1,4 +1,7 @@
 # basic restful framework using Pylot MVC
+
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/courses_pylotmvc.svg)](https://www.guardrails.io)
+
 video of me building this at project (not the framework):
 https://www.youtube.com/watch?v=WlrQKSr6Kr0
 
